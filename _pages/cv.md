@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.E. in Information Technology, GPA: 8.2/10, UIET, Panjab University, 2015-19
-* M.Tech. in Computer Science, GPA:9.0/10 (current), Indian Institute of Technology, Bombay, 2020-22(expected)
+* M.Tech. in Computer Science, GPA: 9.0/10 (current), Indian Institute of Technology, Bombay, 2020-22(expected)
 
 Work experience
 ======
@@ -21,7 +21,7 @@ Work experience
   * Created a framework for IT Asset Management for a leading blockchain startup.
   * Implemented the designed framework in ServiceNow.
 
-* Deloitte: Intern
+* Deloitte USI: Intern
   * Assisted in Assessment and Authorization Systems.
   * Implemented in RSA Archer
   
