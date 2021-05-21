@@ -37,7 +37,7 @@ author_profile: true
   * mm2.c contains the implementation of a memory allocator using binning technique, which is also used by glibc implementation of malloc.
   * [Link to Project](https://github.com/coderaavan/custom_malloc_implementation)
 
-*  Basic Autoscaling Client-Server Application
+* Basic Autoscaling Client-Server Application
   * Uses libvirt API to monitor CPU utilisation of VMs.
   * Relies on static allocation of IPs to VMs and pre-allocated VMs.
   * [Link to Project](https://github.com/coderaavan/basic_load_balancer)
