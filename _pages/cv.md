@@ -11,49 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Information Technology, GPA: 8.2/10, UIET, Panjab University, 2015-19
+* M.Tech. in Computer Science, GPA:9.0/10 (current), Indian Institute of Technology, Bombay, 2020-22(expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Deloitte USI: Analyst
+  * Worked in the IT Risk Management domain.
+  * Created a framework for IT Asset Management for a leading blockchain startup.
+  * Implemented the designed framework in ServiceNow.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Deloitte: Intern
+  * Assisted in Assessment and Authorization Systems.
+  * Implemented in RSA Archer
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * C
+  * C++
+  * Python
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Web Technologies & Frameworks
+  * Bootstrap
+  * Flask
+  * Android Development
   
-Talks
+Positions of Responsibility
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Post Graduate Representative, CSE, IIT Bombay
+  * Elected representative, having key role in forming academic policies affecting about 500-600 students.
+  * Responsible for forming department placement team, supervising clubs, ensuring active participation of PG community in insititute events.
+
+* Team Lead for Interns, Deloitte USI
+  * Lead a team of 12 interns while being an intern for an ideating contest. Team stood 2nd among 11 teams.
+  * Managed my internship work along with team management, ensuring they get proper resources on time, and kept their morales high.
