@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hello World!"
 title_separator          : "-"
 name                     : &name "Prashant Ravi"
-description              : &description "Computer Science PostGrad @IITB | Computer Architecture Enthusiast"
+description              : &description "Computer Science Grad Student @IITB | Computer Architecture Enthusiast"
 url                      : https://coderaavan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "coderaavan/coderaavan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Prashant Ravi"
   avatar           : "img2.jpg"
-  bio              : "Computer Science PostGrad @IITB | Computer Architecture Enthusiast"
+  bio              : "Computer Science Grad Student @IITB | Computer Architecture Enthusiast"
   location         : "IIT Bombay"
   employer         :
   pubmed           : 
