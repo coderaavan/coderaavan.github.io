@@ -46,3 +46,5 @@ Positions of Responsibility
 * Team Lead for Interns, Deloitte USI
   * Lead a team of 12 interns while being an intern for an ideating contest. Team stood 2nd among 11 teams.
   * Managed my internship work along with team management, ensuring they get proper resources on time, and kept their morales high.
+
+[Download Resume](https://drive.google.com/file/d/1VAm-p9LK96zICifoWTNlWfpRIOcCTWQs/view?usp=sharing)
